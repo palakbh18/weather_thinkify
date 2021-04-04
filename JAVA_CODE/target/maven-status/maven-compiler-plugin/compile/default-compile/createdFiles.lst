@@ -1,0 +1,5 @@
+com/weather/thinkific/ConsumingRestApplication.class
+com/weather/thinkific/services/WeatherService.class
+com/weather/thinkific/controller/WeatherController.class
+com/weather/thinkific/SwaggerConfig.class
+com/weather/thinkific/services/WeatherService$1.class
