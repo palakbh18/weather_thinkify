@@ -37,7 +37,7 @@ Prerequisites-  JDK 1.8 or higher, Maven 3.2+ and set all the paths.
 3) The application would pop up on http://localhost:8080/swagger-ui.html on your browser.
 
 
-Or, you can directly run the jar file "consuming-rest-0.0.1-SNAPSHOT.jar" present in consuming-rest/target folder in java directory using the command
+Or, you can directly run the jar file "consuming-rest-0.0.1-SNAPSHOT.jar" by downloading from https://drive.google.com/file/d/10s0_jXhAGmRpEj6gK6ws3aF8BDkHQCr0/view?usp=sharing  using the command
    # Java -jar consuming-rest-0.0.1-SNAPSHOT.jar
 ### What did you not include in your solution that you want us to know about?
 I havenot used authentication services in the solution.
