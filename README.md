@@ -13,7 +13,7 @@ The application is deployed using Firebase on https://weather123-3b21f.web.app/
 
 2) Also, I assume that the client will have their own API KEY which they can get and add as REACT_APP_API_KEY= YOUR_API_KEY in a .env file in the root directory.
 
-3)I also created the api using Java spring-boot also, the code for which  is shown in a separate folder called Java. The java source although doesnot have a UI , rather I implemented swagger interface on itfor better documentation purpose of API. Please note, the Java code has nothing to do with the react code, I just developed this to show my spring-boot and java knowledge.
+3) I also created the api using Java spring-boot also, the code for which  is shown in a separate folder called Java. The java source although doesnot have a UI , rather I implemented swagger interface on itfor better documentation purpose of API. Please note, the Java code has nothing to do with the react code, I just developed this to show my spring-boot and java knowledge.
 
 ### Shortcuts/Compromises made
 In real word scenarios, I would prefer to make a server in node.js and then deploy application because of safety purposes. In the current code, any person can get my APIKEY using the developers tool which could be a security threat. 
