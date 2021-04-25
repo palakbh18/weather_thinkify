@@ -9,7 +9,7 @@ The application is deployed using Firebase on https://weather123-3b21f.web.app/
 ### Time spent
 5-6 hours
 ### Assumptions made
-1)Essentially, In a real world scenario, I prefer to create a backend server in node for this application since we all know backend is where the security lies but keeping in mind the background of the company, I assumed the company would prefer a candidtae who has react knowledge, plus this app was really simple and didnot require a complicated backend server, hence I decided to work on react for simplicaity purpose.
+1)Essentially, In a real world scenario, I prefer to create a backend server in node for this application since we all know backend is where the security lies but keeping in mind the background of the company, I assumed the company would prefer a candidtae who has react knowledge, plus this app was really simple and didnot require a complicated backend server, hence I decided to work on react for simpliciity purpose.
 
 2). Also, I assume that the client will have their own API KEY which they can get and add as REACT_APP_API_KEY= YOUR_API_KEY in a .env file in the root directory.
 
